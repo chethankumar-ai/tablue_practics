@@ -27,6 +27,8 @@ In this project, I used **Microsoft Excel** for data cleaning and analysis, foll
 > 
 
 ---
+## Dashboard Preview!
+<href>https://github.com/chethankumar-ai/tablue_practics/blob/main/images/Screenshot%202025-04-16%20at%202.48.02%E2%80%AFPM.png <href>
 
 ## 📁 Project Structure
 ```bash
@@ -59,5 +61,4 @@ Tableau_tuts1/
 |
 └── README.md                       # Project documentation
 
-## Dashboard Preview!
-<href>https://github.com/chethankumar-ai/tablue_practics/blob/main/images/Screenshot%202025-04-16%20at%202.48.02%E2%80%AFPM.png <href>
+
